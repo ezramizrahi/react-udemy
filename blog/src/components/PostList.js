@@ -6,12 +6,12 @@ class PostList extends React.Component {
   componentDidMount() {
     this.props.fetchPosts();
   }
-  
+
   render() {
     return (
       <div>post list</div>
-    )
-  }
+    );
+  };
 }
 
 export default connect(null, { fetchPosts: fetchPosts })(PostList);
