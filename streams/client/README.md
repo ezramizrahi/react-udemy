@@ -1,5 +1,5 @@
 # Twitch clone
-React Router, Redux, Authentication tutorial
+React Router, Redux, Google OAuth tutorial
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
